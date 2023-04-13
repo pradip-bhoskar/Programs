@@ -1,0 +1,68 @@
+Fibonacii Series:
+    0,1,1,2,3,5,8,13,21,34,55,....
+
+
+Prime Number:
+    only divisible by 1 and that number
+    eg. 2,5,29,53 etc
+
+
+Palindrome Number: 
+    palindrome number is a number that is same agter reverse.
+    eg.
+        151, 343, 34543,MADAM
+
+
+Factorial:
+    product of all positive descending numbers.
+    eg.
+        4!= 4*3*2*1 = 24
+        5!= 5*4*3*2*1 =120
+
+
+Armstrong Number:
+    if the sum of m power of all digits is equal to number then its amrstrong number.
+    m= total number of digits;
+    1 to 9 are armstrong numbers.
+
+    eg.
+        153---> 1*1*1 + 5*5*5 + 3*3*3 =1+125+27= 153
+
+        1634---> 1*1*1*1 + 6*6*6*6 + 3*3*3*3 + 4*4*4*4 = 1+ 1296 + 81 + 256 = 1634
+
+        153,370,371,407,1634,8208,...
+
+
+
+Automorphic Number:
+    if the square of the number ends with the given number then it is automorphic number.
+    eg,
+    5--25
+    6--36
+    25--625
+    76--5776
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+       
